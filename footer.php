@@ -6,6 +6,7 @@
             </div>
           </div>
         </footer>
+        <div></div>
       </div>
     </div>
     <!-- JavaScript files-->
